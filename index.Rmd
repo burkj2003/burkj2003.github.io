@@ -1,0 +1,27 @@
+---
+title: "index"
+author: "Burk"
+date: "11/14/2019"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+
+# About ME
+
+## Name:  Jason Burk
+
+![](Jason2.jpg)
+
+
+
+## Originally From: Broomfield, Colorado
+## Interests: Cars, home improvement, working on projects at home
+## Currently work at Raytheon in Dallas, TX for the last 10 years.  
+## Prior to that I was in the US Navy for over 21 years as a Naval Flight Officer.
+## The last school I attended before Data Science at SMU was....SMU!  I received a Master's 
+## in Software Engineering from SMU in 2012 and I haven't done anything with it.
+
+#The other tabs represent work / analyses that I have completed.  Please check them out!
+
