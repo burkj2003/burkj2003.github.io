@@ -16,9 +16,9 @@ editor_options:
 
 
 
-## Originally From: Broomfield, Colorado
-## Interests: Cars, home improvement, working on projects at home
-## Currently work at Raytheon in Dallas, TX for the last 10 years.  
+## I am originally from Broomfield, Colorado even though I was born in L.A.
+## My main interests are cars, home improvement, working on projects at home
+## I currently work at Raytheon in Dallas, TX for the last 10 years.  
 ## Prior to that I was in the US Navy for over 21 years as a Naval Flight Officer.
 ## The last school I attended before Data Science at SMU was....SMU!  I received a Master's 
 ## in Software Engineering from SMU in 2012 and I haven't done anything with it.
