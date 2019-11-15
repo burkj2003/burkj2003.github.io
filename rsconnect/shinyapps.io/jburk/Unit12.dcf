@@ -1,0 +1,12 @@
+name: Unit12
+title: Unit12
+username:
+account: jburk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1476302
+bundleId: 2591020
+url: https://jburk.shinyapps.io/Unit12/
+when: 1573797410.12213
+asMultiple: FALSE
+asStatic: FALSE
