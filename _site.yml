@@ -6,3 +6,5 @@ navbar:
       href: index.html
     - text: "My Data Science Project"
       href: Project.html
+    - text: "Various Rshiny Apps"
+      href: Data.html  
