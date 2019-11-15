@@ -27,19 +27,20 @@ ui <- fluidPage(
                    choices = list("IBU" = 1, "ABV" = 2), 
                    selected = 1),
       
-      hr(),
-      fluidRow(column(3, verbatimTextOutput("value")))
-      
-    ),
+        ),
+    
+    
     
     # Main panel for displaying outputs ----
     mainPanel(
       
       # Output: Data file ----
       #tableOutput(outputId = "table")
-      plotOutput("kplot"),
-      tableOutput('contents')
+      plotOutput("plotoutput"),
+      tableOutput('tableoutput')
     )
     
   )
+
+  
 )

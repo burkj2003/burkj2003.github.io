@@ -1,8 +1,13 @@
-# Define server logic to read selected file ----
-server <- function(input, output) {
+server <- function(input, output, session) {
+  dataset <- reactive({
+    get(input$dataset, "package:datasets")
+  })
   
-  # You can access the values of the widget (as a vector)
-  # with input$radio, e.g.
-  output$value <- renderPrint({ input$radio })
+  output$summary <- renderPrint({
+    summary(dataset())
+  })
   
+  output$table <- renderTable({
+    dataset()
+  })
 }
