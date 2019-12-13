@@ -4,6 +4,8 @@ navbar:
   left: 
     - text: "Home"
       href: index.html
+    - text: "Attrition"
+      href: Project-2.html
     - text: "My Data Science Project"
       href: Project.html
     - text: "Various Rshiny Apps"
